@@ -6,5 +6,6 @@
 
 
 
-`chmod 777 ssh.sh
+`chmod 777 ssh.sh  
+  
 ./ssh.sh`
