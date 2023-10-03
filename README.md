@@ -4,9 +4,7 @@
 执行脚本会自动启用key登录，同时禁用密码登录
 执行
 
-‘
-chmod 777 ssh.sh
-./ssh.sh
 
-’
 
+`chmod 777 ssh.sh
+./ssh.sh`
